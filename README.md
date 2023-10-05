@@ -1,17 +1,17 @@
 ## Hi there 👋
 
- I'm Nhlanhla. 
+ I'm Sasa V. 
 
 A Software Developer, Ethereum Core Developer Apprentice and an Open Source contributor. I'm currently an **Ethereum Core Developer Apprentice** at **[Ethereum](http://www.ethereum.org/)**.
 Contributing to building a decentralized web 3.0.
 
 - 📚- I'm currently learning more about **Zero Knowledge Proofs and Ethereum Virtual Machine(EVM)**.
 
-- :writing_hand: - I often write a [blog](https://hackmd.io/@Nhlanhla) to share my learnings with the community.
+- :writing_hand: - I often write a [blog](https://sasa-175g.onrender.com) to share my learnings with the community.
 
-- :bird: - I tweet about Ethereum Development, other blockchain development, Software development and OpenSource side projects on [Twitter](https://twitter.com/ZKTriumph).
+- :bird: - I tweet about Ethereum Development, other blockchain development, Software development and OpenSource side projects on [Linkedin](https://www.linkedin.com/in/sasa-velickovic-803585293).
 
-- :computer: - Have a look at my [Portfolio](https://nhlanhlahasane.netlify.app) for more details.
+- :computer: - Have a look at my [Portfolio](https://sasa-175g.onrender.com) for more details.
 
 ### ⚡ Technologies
 
@@ -38,4 +38,4 @@ Contributing to building a decentralized web 3.0.
 
 
 
- #### Please feel free to reach out on **[Twitter](https://twitter.com/Nhlanhla_ILLOT)** or **nhlanhlahasane@hotmail.com**. <br />Thank you
+ #### Please feel free to reach out on **[Linkedin](https://www.linkedin.com/in/sasa-velickovic-803585293)** or **vsasav93@gmail.com**. <br />Thank you
